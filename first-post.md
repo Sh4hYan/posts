@@ -1,2 +1,6 @@
 # My New Post
-This is shayan
+---
+title: Hello World!
+date: 1402-12-20
+---
+This is a samp.
