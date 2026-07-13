@@ -4,4 +4,4 @@
 عنوان: سلام دنیا!
 ---
 ![hello world](https://www.elegantthemes.com/blog/wp-content/uploads/2020/08/hello-world.png) 
-به یاد جان باختگان راه آزادی.
+اولین پست این سایت به یاد تمامی جان باختگان در راه آزادی.
