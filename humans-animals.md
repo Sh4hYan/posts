@@ -5,8 +5,6 @@ desc: هیچ موجودی تا به حال به خاطر پاداش بهشت ه�
 tags: انسان, فلسفه, روانشناسی, تاریخ
 author: شایان
 slug: humans-animals
-excerpt: بررسی دلایل خشونت انسان‌ها نسبت به هم نوع خود از دیدگاه فلسفه، تاریخ و روانشناسی
-image: https://static.digiato.com/digiato/2025/01/aievolution_1280p-1024x576.jpg
 ---
 ![Evolution](https://static.digiato.com/digiato/2025/01/aievolution_1280p-1024x576.jpg)
 
